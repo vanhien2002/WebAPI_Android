@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pE3i5pCYhsQI7Su4XLOKm7GirxFDyYTAq9A97GWfpuU=",
+  "Source": "WebAPI_Android",
+  "BasePath": "_content/WebAPI_Android",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
